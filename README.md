@@ -1,5 +1,11 @@
 # About Me:
-<h2 style="font-size: 40px;">👋 Hi, I am <span style="color:#00BFFF">Santrupt</span></h2>
+<div align="center">
+  <h1>Hi, I'm <span style="color:#00BFFF">Santrupt</span></h1>
+  <p align="center">
+    <strong>Full-Stack Developer | Specializing in Backend</strong><br />
+    Building scalable systems with Java, Spring Boot, and Next.js
+  </p>
+</div>
 
 
 ## 🌐 Socials:
