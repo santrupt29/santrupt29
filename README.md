@@ -1,7 +1,7 @@
 # About Me:
-<div align="center">
+<div>
   <h1>Hi, I'm <span style="color:#00BFFF">Santrupt</span></h1>
-  <p align="center">
+  <p>
     <strong>Full-Stack Developer | Specializing in Backend</strong><br />
     Building scalable systems with Java, Spring Boot, and Next.js
   </p>
