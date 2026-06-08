@@ -1,6 +1,6 @@
 # Hi, I'm Santrupt
 
-Backend Developer focused on distributed systems, real-time applications, and high-performance Java/Spring Boot services. Pre-final year ECE student at VJTI Mumbai, actively building and shipping.
+Backend Developer focused on distributed systems, real-time applications, and high-performance Java/Spring Boot services. Final year ECE student at VJTI Mumbai, actively building and shipping.
 
 ---
 
