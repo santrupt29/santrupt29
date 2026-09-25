@@ -4,6 +4,20 @@ Backend Developer focused on distributed systems, real-time applications, and hi
 
 ---
 
+## 💼 Experience
+
+**Software Development Engineer Intern** · [Swastik Software Technologies] *(May 2026 – July
+2026)*
+`Java · Spring Boot · Python · LangGraph · MySQL · aiomysql · Metabase · RBAC`
+- **LangGraph AI Agent**: Orchestrated a production agent handling 11 care-ops workflows, multi-turn state, and 3-role RBAC for an NDIS platform.
+- **LLM Routing & Optimization**: Engineered 3-tier routing with 5-stage timing instrumentation, eliminating 60s+ latency bottlenecks and production 502
+errors.
+- **Batch Processing**: Extended Spring Boot for recurring shift series with 25-occurrence `@Transactional` batch execution; integrated Python NLP agent.
+- **Observability Pipeline**: Designed a 5-table cross-service MySQL telemetry schema across Java and Python runtimes with `aiomysql` pooling and Metabase
+dashboards.
+
+---
+
 ## 🛠 Tech Stack
 
 **Languages:** Java, C++, Python, JavaScript/TypeScript  
