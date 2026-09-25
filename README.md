@@ -1,9 +1,13 @@
+<!-- <a href="https://santrupt29.vercel.app">
+  <img align="right" width="130" src="./assets/profile.png" alt="Santrupt Potphode" style="border-radius: 50%;" />
+</a> -->
+
 # Santrupt Potphode
 
 ### **Backend Developer**
 *Architecting high-throughput distributed microservices, low-latency streaming, and resilient event-driven systems.*
 
-[Interactive Portfolio (3D/Retro)](https://santrupt.dev) · [LinkedIn](https://linkedin.com/in/santrupt29) · [Email](mailto:santrupt.potphode29@gmail.com) · [X / Twitter](https://x.com/santrupt_29)
+[Interactive Portfolio (3D/Retro)](https://santrupt29.vercel.app) · [LinkedIn](https://linkedin.com/in/santrupt29) · [Email](mailto:santrupt.potphode29@gmail.com) · [X / Twitter](https://x.com/santrupt_29)
 
 <br/>
 
@@ -150,10 +154,10 @@ graph LR
 ## 📊 Live GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santrupt29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santrupt29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="310" />
+  <img src="https://github-stats-extended.vercel.app/api?username=santrupt29&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="410" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=santrupt29&layout=compact&theme=dark&hide_border=true&langs_count=8" width="310" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=santrupt29&theme=tokyonight&hide_border=true" width="730" />
+  <img src="https://streak-stats.demolab.com?user=santrupt29&theme=dark&hide_border=true" width="730" />
 </div>
 
 ---
